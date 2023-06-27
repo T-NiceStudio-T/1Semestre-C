@@ -1,9 +1,7 @@
 /* 
-    Celcius para Fahrenheit
-    Programa para connverter Celcius em Fahrenheit
-    Feito por Luan Almeida
-    21 / 03 / 2023
-    V1
+    Celcius para Fahrenheit - Connverter Celcius em Fahrenheit
+    Escrito por Luan Almeida - NiceStudio
+    21/03/2023 - V 1.0
 */
 
 #include <stdio.h>

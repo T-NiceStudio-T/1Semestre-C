@@ -1,9 +1,7 @@
 /* 
-    Ordenar
-    Programa serve para organizar numeros em orgem crescente
-    Feito por Luan Almeida
-    21 / 03 / 2023
-    V1
+    Ordenar - Programa serve para organizar numeros em orgem crescente
+    Escrito por Luan Almeida - NiceStudio
+    21/03/2023 - V 1.0
 */
 
 #include <stdio.h>

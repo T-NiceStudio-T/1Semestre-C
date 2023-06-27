@@ -1,9 +1,7 @@
 /* 
-    Quantidade de dias
-    Programa que nos diz quantos dias tem um mes de determinado ano
-    Feito por Luan Almeida
-    21 / 03 / 2023
-    V1
+    Quantidade de dias - Dizer quantos dias tem um mes de determinado ano
+    Escrito por Luan Almeida - NiceStudio
+    21/03/2023 - V 1.0
 */
 
 #include <stdio.h>

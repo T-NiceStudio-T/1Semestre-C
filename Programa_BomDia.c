@@ -1,9 +1,7 @@
 /* 
-    Bom Dia
-    Programa para exibir seu nome e Ra
-    Feito por Luan Almeida
-    21 / 03 / 2023
-    V1
+    Bom Dia - exibir seu nome e Ra
+    Escrito por Luan Almeida - NiceStudio
+    21/03/2023 - V1
 */
 
 #include <stdio.h>

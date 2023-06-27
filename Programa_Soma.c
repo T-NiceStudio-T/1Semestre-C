@@ -1,10 +1,8 @@
 #include <stdio.h>
 /* 
-    Soma
-    Calculadora basica para somar 2 numeros
-    Feito por Luan Almeida
-    21 / 03 / 2023
-    V1
+    Soma -  Calcular soma de 2 numeros
+    Escrito por Luan Almeida - NiceStudio
+    21/03/2023 - V 1.0
 */
 
 #include <stdlib.h>
