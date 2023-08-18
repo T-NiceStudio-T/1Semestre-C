@@ -1,7 +1,7 @@
 /*
     números entre a-b - Ingressar 2 números (a e b) do tipo inteiro e fazer a impressão dos números entre a-b.
     Escrito por Luan Almeida - NiceStudio
-    25/23/2023 - V 1.0
+    25/03/2023 - V 1.0
 */
 
 int main ()

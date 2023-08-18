@@ -1,5 +1,5 @@
 /*
-    impressão ascendente - impressão ascendente dos números do 1-10
+    descendente - impressão descendente dos números do 20-0
     Escrito por Luan Almeida - NiceStudio
     25/03/2023 - V 1.0
 */
@@ -10,11 +10,11 @@
 int main (void) 
 {
 
-    int i = 1;
+    int i = 20;
 
-    for ( i<10 ;i <= 10;++i)
+    for ( i>20 ;i >= 0; --i)
     {
-        if ( i >= 10 ) printf ("%d.",i);
+        if ( i <= 0 ) printf ("%d.",i);
         else printf ("%d, ", i );
     }
 
